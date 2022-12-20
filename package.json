@@ -1,0 +1,24 @@
+{
+  "name": "typescript-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc ./v5.0/const.ts "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venusliang/typescript-demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venusliang/typescript-demos/issues"
+  },
+  "homepage": "https://github.com/venusliang/typescript-demos#readme",
+  "devDependencies": {
+    "typescript": "^5.0.0-dev.20221219"
+  }
+}
